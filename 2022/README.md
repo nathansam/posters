@@ -1,4 +1,4 @@
-# Posters presented in 2022
+# Posters presented in 2022
 
 * [FALK22.png](FALK22.png): A0 Poster on the
   [LCMM LIBDR study](https://doi.org/10.1101/2022.08.16.22278320).
